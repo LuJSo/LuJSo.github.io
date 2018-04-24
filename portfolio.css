@@ -1,0 +1,158 @@
+#nav-bar {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/*index*/
+#Name {
+    text-align: center;
+    padding: 100px 10px 100px 10px;
+    color: grey;
+    background-color: white;
+}
+
+#prof { 
+    position: absolute;
+    top: 15%;
+    left: 45%;
+    border-radius: 50%;
+}
+
+#yo {
+    border-radius: 50px;
+}
+
+#test {
+    position: absolute;
+    top: 29%;
+    left: 42%;
+}
+
+#intro {
+   text-align: left;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 0%;
+  
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+/*page2*/
+#skillTitle {
+    text-align: center;
+  padding: 20px 2px 2px 2px;    
+    color: grey;
+    background-color: white;
+}
+
+#resume {
+   margin-left: 20%;
+}
+
+#summary {
+ text-align: left;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 0%;
+    padding: 10px 10px 10px 10px; 
+}
+
+
+/*page3*/
+#History {
+    text-align: center;
+    padding: 10px 10px 2px 10px;
+    color: grey;
+    background-color: white;
+    font-size: 50px;
+}
+
+#slides {
+padding-left: 20%;
+} 
+
+#para {
+    position: absolute;
+    top: 110%;
+}
+ 
+/*page4*/
+#photos {
+    text-align: center;
+    padding: 100px 10px 40px 10px;
+    color: grey;
+    background-color: white;
+    margin: 20px 5% 20px 5%;
+    border-radius: 100px;
+}
+
+#Obaa {
+    margin-right: 40px;
+    border-radius: 10%;
+}
+
+
+#App {
+    text-align: center;
+    padding: 30px 10px 40px 10px;
+    color: grey;
+    background-color: white;
+    font-size: 50px;
+   
+}
+
+
+#placeholder {
+    border-radius: 50%;
+}
+
+#one {
+    margin-right:90%;
+    margin-left: 10%;
+ background-color: white;
+    margin-bottom: 40%;
+}
+
+
+
+a {   
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+a:hover {
+    color: #dbdcdd;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #35373a;
+}
+
+
+#link {
+color: lightblue;
+    
+}
+
+#link:hover {
+color: darkblue;
+}
+
+
+
+
+
+
