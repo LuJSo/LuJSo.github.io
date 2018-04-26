@@ -7,16 +7,13 @@
 /*index*/
 #Name {
     text-align: center;
-    padding: 100px 10px 100px 10px;
+    padding: 2px 2px 2px 2px;
     color: grey;
     background-color: white;
 }
 
 #prof { 
-    position: absolute;
-    top: 15%;
-    left: 45%;
-    border-radius: 50%;
+   border-radius: 100px;
 }
 
 #yo {
@@ -24,9 +21,7 @@
 }
 
 #test {
-    position: absolute;
-    top: 29%;
-    left: 42%;
+    font-size: 23px;
 }
 
 #intro {
