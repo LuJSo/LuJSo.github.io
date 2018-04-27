@@ -18,8 +18,8 @@
 
 #yo {
     border-radius: 50px;
+    margin-left:-240%;
 }
-
 
 #test {
     font-size: 23px;
@@ -28,11 +28,9 @@
 #intro {
    text-align: left;
     color: white;
-    font-size: 20px;
-    margin-top: 20px;
-    margin-left: 10%;
-    margin-right: 0%;
-  
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 40%;
 }
 
 .flex-container {
@@ -63,7 +61,6 @@
     margin-right: 0%;
     padding: 10px 10px 10px 10px; 
 }
-
 
 /*page3*/
 #History {
